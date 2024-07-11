@@ -1,16 +1,13 @@
-## Hi there 👋
+<a href="https://ibb.co/hMfGw44"><img src="https://i.ibb.co/thX0Fvv/image.gif" alt="image" border="0"></a>
 
-<!--
-**jinisili/jinisili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
+📎 Email: alwaysonlylord@naver.com
 
-Here are some ideas to get you started:
+📎 I've used
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My hobby
+
+📎 pole-dance
