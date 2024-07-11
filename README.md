@@ -1,5 +1,3 @@
-![감자](https://github.com/jinisili/jinisili/assets/173546082/c628e6f4-4dae-497d-a903-719ad727ab0f)
-
 ### About me
 📎 Email: alwaysonlylord@naver.com
 
